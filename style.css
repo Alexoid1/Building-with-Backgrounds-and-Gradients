@@ -5,9 +5,11 @@
 }
 
 /* MAIN ARTICLE STYLING */
+
 .main-article {
-  width: 1440px;
-  height: 600px;
+  background: url(img/your_verse_hero.jpg) no-repeat center -780px;
+  width: 1400px;
+  height: 530px;
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -52,11 +54,15 @@
   border: none;
 }
 
+.headersCont {
+  color: white;
+  
+}
 .h2 {
   margin-top: 50px;
   font-size: 50px;
   border: blue solid 1px;
-  font-weight: 100;
+  font-weight: 300;
 }
 
 .h3 {
@@ -78,15 +84,61 @@
 }
 
 /* SIDEBAR STYLING */
-.aside-element{
-  background-color: green;
-  width: 1440px;
+.aside-element {
+  width: 1400px;
   height: 200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  overflow: hidden;
 }
 
 /* FOOTER STYLING */
 .footer-element {
-  background-color: purple;
-  width: 1440px;
+  background-color: white;
+  width: 1400px;
   height: 90px;
+  display: flex;
+  flex-direction: row;
+  font-size: 11px;
+  justify-content: center;
+  
+  
+
+}
+.footerContain { 
+  display: flex;
+  flex-direction: row;
+  font-size: 10px;
+  margin-top: 30px;
+  
+}
+
+ .articlesImgs {
+  padding:2px solid white;  
+}
+
+.linksFooter {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.parFooter {
+  margin-right: 40px;
+  margin-bottom: 20px;
+}
+
+.linksFooter {
+  list-style: none;
+}
+
+.linksFooter li {
+  border-right: 1px solid grey;
+  margin-right: 10px;
+  padding-right: 10px;
+}
+
+a {
+  color:rgb(15, 167, 167);
 }
