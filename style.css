@@ -170,20 +170,20 @@
   padding-right: 10px;
 }
 
-a {
+.footer-element a {
   color: rgb(15, 167, 167);
 }
 
 /* MEDIA QUERIES */
-@media(min-width: 1800px){
-  .main-article{
+@media(min-width: 1800px) {
+  .main-article {
     background: url(img/your_verse_hero.jpg) no-repeat center -635px;
     height: 682px;
   }
 }
 
-@media(min-width: 2000px){
-  .main-article{
+@media(min-width: 2000px) {
+  .main-article {
     background: url(img/your_verse_hero.jpg) no-repeat center -300px;
     height: 1020px;
   }
