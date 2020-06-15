@@ -11,20 +11,15 @@
 }
 
 /* MAIN ARTICLE STYLING */
-body {
- 
-}
 .main-article {
-  background: url(img/your_verse_hero.jpg) no-repeat center center;
+  background: url(img/your_verse_hero.jpg) no-repeat center -785px;
   width: 1400px;
-  height: 1320px;
- 
+  height: 533px;
   overflow: hidden;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-
 
 .navbar {
   margin-top: 75px;
@@ -180,4 +175,19 @@ body {
 
 a {
   color:rgb(15, 167, 167);
+}
+
+/* MEDIA QUERIES */
+@media(min-width: 1800px){
+  .main-article{
+    background: url(img/your_verse_hero.jpg) no-repeat center -635px;
+    height: 682px;
+  }
+}
+
+@media(min-width: 2000px){
+  .main-article{
+    background: url(img/your_verse_hero.jpg) no-repeat center -300px;
+    height: 1020px;
+  }
 }
