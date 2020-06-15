@@ -11,15 +11,20 @@
 }
 
 /* MAIN ARTICLE STYLING */
+body {
+ 
+}
 .main-article {
-  background: url(img/your_verse_hero.jpg) no-repeat center -785px;
+  background: url(img/your_verse_hero.jpg) no-repeat center center;
   width: 1400px;
-  height: 532px;
+  height: 1320px;
+ 
   overflow: hidden;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
+
 
 .navbar {
   margin-top: 75px;
