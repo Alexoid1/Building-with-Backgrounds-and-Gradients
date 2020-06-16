@@ -13,7 +13,7 @@
 /* MAIN ARTICLE STYLING */
 .main-article {
   background: url(img/your_verse_hero.jpg) no-repeat center -785px;
-  width: 1400px;
+  width: 1345px;
   height: 533px;
   overflow: hidden;
   display: flex;
@@ -122,7 +122,7 @@
 
 /* SIDEBAR STYLING */
 .aside-element {
-  width: 1400px;
+  width: 1345px;
   height: 200px;
   display: flex;
   flex-direction: row;
@@ -133,7 +133,7 @@
 /* FOOTER STYLING */
 .footer-element {
   background-color: white;
-  width: 1400px;
+  width: 1345px;
   height: 90px;
   display: flex;
   flex-direction: row;
