@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/Alexoid1/Building-with-Backgrounds-and-Gradients/f2a63f43d96bf907d9733f1e040b499e07ff45f3/index.html)
+[Live Demo Link](https://alexoid1.github.io/Building-with-Backgrounds-and-Gradients/)
 
 
 ## Authors
