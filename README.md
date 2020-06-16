@@ -1,10 +1,10 @@
 # PositioningAndFloatingElements
 
-> This is a recreation of article page
+> This is a recreation of article page https://web.archive.org/web/20140301004610/http://www.apple.com/ Homepage
 
 ![screenshot](./img/screen.png)
 
-This is a website to test our understainding of forms in HTML
+
 
 ## Built With
 
@@ -14,16 +14,16 @@ This is a website to test our understainding of forms in HTML
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://rawcdn.githack.com/Alexoid1/Building-with-Backgrounds-and-Gradients/f2a63f43d96bf907d9733f1e040b499e07ff45f3/index.html)
 
 
 ## Authors
 
-👤 ****
+👤 **Tadeu de Abreu Sarro**
 
-- Github: []()
-- Twitter: []()
-- Linkedin: []()
+- Github: [@tadeuasarro](https://github.com/tadeuasarro)
+- Twitter: [@tadeuasarro](https://twitter.com/tadeuasarro)
+- Linkedin: [@tadeuasarro](https://www.linkedin.com/in/tadeu-sarro-71481013a/)
 
 👤 **Pablo Alexis Zambrano Coral**
 
@@ -41,8 +41,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Elements aligned with a combination of all three techniques (float, flex and grid)
+- How to cover the whole page irrespective  of the screen size. This is a learning opportunity for you to use the background size and position properties.
 - How to style a website that has more css features
+- Align all elements with float and flex or grid.
 
 
 ## 📝 License
